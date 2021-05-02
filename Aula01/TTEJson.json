@@ -1,0 +1,39 @@
+{
+  "Pessoa": {
+    "id": "03",
+    "nome": "Carlos",
+    "idade": "20",
+    "isAdministrador": true,
+    "mae": {
+      "id": "01",
+      "nome": "Adriana",
+      "idade": "49",
+      "isAdministrador": false
+    },
+    "irmaos": [
+      {
+        "id": "02",
+        "nome": "Ademir",
+        "idade": "26",
+        "isAdministrador": true,
+        "mae": {
+          "id": "01",
+          "nome": "Adriana",
+          "idade": "49",
+          "isAdministrador": false
+        }},
+      {
+        "id": "04",
+        "nome": "Joao",
+        "idade": "18",
+        "isAdministrador": false,
+        "mae": {
+          "id": "01",
+          "nome": "Adriana",
+          "idade": "49",
+          "isAdministrador": false
+        }
+      }
+    ]
+  }
+}

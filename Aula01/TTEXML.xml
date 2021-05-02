@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+  <pessoa id="03" nome="Carlos" idade="20" isAdministrador="true">
+    <mae id="01" nome="Adriana" idade="48" isAdministrador="false"/>
+       <irmaos>
+         <irmao id="02" nome="Ademir" idade="26" isAdministrador="true"/>
+         <irmao id="04" nome="Joao" idade="18" isAdministrador="false"/>
+       </irmaos>
+  </pessoa>
+

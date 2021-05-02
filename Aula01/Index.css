@@ -1,0 +1,21 @@
+body {
+    background-color: aliceblue;
+}
+
+.perData{
+    font-size: x-large;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    horiz-align: left;
+}
+#image{
+    padding: 0px;
+}
+.one{
+    background-color: lightgray;
+}
+.other{
+    background-color: lightblue;
+}
